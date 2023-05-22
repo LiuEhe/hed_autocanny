@@ -3,7 +3,7 @@
 本项目基于HED (Holistically-Nested Edge Detection) 模型和Canny边缘检测算法，通过比较输入图像的灰度图像与HED边缘检测结果之间的均方误差（MSE），自动选择最佳的Canny边缘检测阈值参数。项目使用Python和OpenCV实现。
 
 ## 项目运行效果截图
-![答案截图](output.jpg)
+![答案截图](resultt.jpg)
 
 ## 功能
 
